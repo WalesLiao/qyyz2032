@@ -1,0 +1,24 @@
+{
+    "expansion": false,
+    "google_play_key": null,
+    "google_play_salt": null,
+    "heap_size": "3",
+    "icon_name": "\u7941\u9633\u4e00\u4e2d\uff1a2032",
+    "include_pil": false,
+    "include_sqlite": false,
+    "layout": null,
+    "name": "\u7941\u9633\u4e00\u4e2d\uff1a2032",
+    "numeric_version": 1,
+    "orientation": "sensorLandscape",
+    "package": "edu.walestech.qyyz2032",
+    "permissions": [
+        "VIBRATE",
+        "INTERNET"
+    ],
+    "source": false,
+    "store": "none",
+    "update_always": true,
+    "update_icons": true,
+    "update_keystores": true,
+    "version": "1.0"
+}
